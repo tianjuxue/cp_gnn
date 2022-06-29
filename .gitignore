@@ -1,3 +1,7 @@
+python/data
+python/reference
+*.DS_Store
+
 .libs
 *.la
 *.lo
